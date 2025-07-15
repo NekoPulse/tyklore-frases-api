@@ -1,0 +1,23 @@
+{
+    "name": "tyklore-frases-api",
+    "version": "1.0.0",
+    "description": "Una API de frases aleatorias desplegada en Cloudflare Workers.",
+    "main": "api/index.js",
+    "scripts": {
+      "deploy": "wrangler deploy",
+      "dev": "wrangler dev",
+      "start": "wrangler dev"
+    },
+    "keywords": [
+      "cloudflare",
+      "workers",
+      "api",
+      "frases",
+      "aleatorias"
+    ],
+    "author": "Tyklore",
+    "license": "MIT",
+    "devDependencies": {
+      "wrangler": "^3.0.0"
+    }
+  }

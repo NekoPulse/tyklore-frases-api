@@ -1,0 +1,6 @@
+name = "tyklore-frases-api"
+main = "api/index.js" 
+compatibility_date = "2025-07-15" 
+type = "javascript"
+workers_dev = true
+compatibility_flags = [ "nodejs_compat" ] 
